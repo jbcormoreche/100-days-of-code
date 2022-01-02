@@ -1,7 +1,7 @@
 # print() function - Print to the console
 print("Hello, world!")
 
-# Interactive Coding exercise - Printing
+# Interactive Coding Exercise - Printing
 print("Day 1 - Python Print Function")
 print("The function is declared like this:")
 print("print('what to print')")
@@ -16,16 +16,18 @@ print("Hello" + " " + "Angela")
 input("A prompt for the user")
 print("Hello " + input("What is your name?"))
 
-# Interactive Coding exercise - Printing
-# len() function - Return the length (the number of items) of an object
+# Interactive Coding Exercise - Printing
+# Write a program that prints the number of characters in a user's name.
 print(len(input("What is your name? ")))
+
+# len() function - Return the length (the number of items) of an object
 
 # Variables
 name = input("What is your name? ")
 length = len(name)
 print(length)
 
-# Interactive Coding exercise - Variables
+# Interactive Coding Exercise - Variables
 # Write a program that switches the values stored in the variables a and b.
 a = input("a: ")
 b = input("b: ")
