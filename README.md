@@ -5,3 +5,4 @@ Learn Python by building 100 projects in 100 days following the course [100 Days
 ## Table of Contents
 
 - [Day 1: Variables - Band Name Generator](https://github.com/jbcormoreche/100-days-of-code/blob/main/Day001-Variables-Band_Name_Generator.py)
+- [Day 2: Data Types and Strings Manipulation - Tip Calculator](https://github.com/jbcormoreche/100-days-of-code/blob/main/Day002-Data_Types-Strings_Manipulation-Tip_Calculator.py)
