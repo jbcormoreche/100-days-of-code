@@ -97,7 +97,7 @@ for symbol in range(0, nr_symbols):
 for number in range(0, nr_numbers):
     password += random.choice(numbers)
 
-print(password)
+print(f"Your password is: {password}")
 
 # Hard Level - Order of characters randomised:
 # e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P
