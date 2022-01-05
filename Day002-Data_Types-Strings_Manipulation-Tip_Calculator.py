@@ -20,7 +20,7 @@ print(3.14159)
 print(True)
 print(False)
 
-# type() function
+# type() function - Return the type of an object
 print(type(123.25))
 
 # Type conversion/casting
@@ -60,8 +60,11 @@ print(bmi)
 
 # Number manipulation
 
-# round() function
-print(round(2.6666666666666, 2))  # round a number to 2 decimal digits
+# round() function - Return number rounded to ndigits precision after the decimal point
+# Round a number to 2 decimal digits
+print(round(2.6666666666666, 2))
+# If ndigits is omitted or is None, it returns the nearest integer to its input.
+print(round(2.6666666666666))
 
 # Floor division returns the largest possible integer
 print(8 // 3)
