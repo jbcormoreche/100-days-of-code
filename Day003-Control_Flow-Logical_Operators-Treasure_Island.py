@@ -162,7 +162,7 @@ if height >= 120:
 else:
     print("Sorry, you have to grow taller before you can ride.")
 
-# String lower() method - convert a string to lowercase
+# String lower() method - Convert a string to lowercase
 print("Angela".lower())
 
 # String count() method - Count the number of occurrences of a character in a string
