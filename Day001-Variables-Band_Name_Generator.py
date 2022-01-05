@@ -12,7 +12,7 @@ print("Hello, world!\nHello, world!\nHello, world!")
 # Concatenation (operation of joining character strings end-to-end)
 print("Hello" + " " + "Angela")
 
-# input() function
+# input() function - Take input from the user and convert it into a string
 input("A prompt for the user")
 print("Hello " + input("What is your name?"))
 
