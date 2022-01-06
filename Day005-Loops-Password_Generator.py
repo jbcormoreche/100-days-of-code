@@ -7,6 +7,32 @@ for fruit in fruits:
     print(fruit + " Pie")
 print(fruits)
 
+# range() function - Return a sequence of numbers starting from 0 by default, increment by 1 by default and stop before a specified number
+# Create and print a sequence of numbers from 0 to 5
+x = range(6)
+for n in x:
+    print(n)
+
+for n in range(6):
+    print(n)
+
+# Print numbers between 0 and 10 and increment by 2.
+for number in range(0, 11, 2):
+    print(number)
+
+# Print the sum of the first 100 whole numbers.
+total = 0
+for number in range(1, 101):
+    total += number
+print(total)
+
+# Interactive Coding Exercise - Adding Evens
+# Write a program that calculates the sum of all the even numbers from 1 to 100.
+total = 0
+for number in range(2, 101, 2):
+    total += number
+print(total)
+
 # Interactive Coding Exercise - Average Height
 # Write a program that calculates the average student height from a List of heights.
 student_heights = input("Input a list of student heights ").split()
@@ -41,24 +67,6 @@ for score in student_scores:
     if score > highest_score:
         highest_score = score
 print(f"The highest score in the class is: {highest_score}")
-
-# For Loop and the range() function
-# Print numbers between 0 and 10 and increment by 2.
-for number in range(0, 11, 2):  # default step with only (0, 10) is 1
-    print(number)
-
-# Print the sum of the first 100 whole numbers.
-total = 0
-for number in range(1, 101):
-    total += number
-print(total)
-
-# Interactive Coding Exercise - Adding Evens
-# Write a program that calculates the sum of all the even numbers from 1 to 100.
-total = 0
-for number in range(2, 101, 2):
-    total += number
-print(total)
 
 # Interactive Coding Exercise - FizzBuzz Job Interview Question
 # Write a program that automatically prints the solution to the FizzBuzz game.
