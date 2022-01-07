@@ -1,4 +1,4 @@
-# Data Types
+# Data Types and Strings Manipulation
 
 # Strings
 print("Hello world!")
