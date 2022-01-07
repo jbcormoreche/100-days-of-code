@@ -1,7 +1,6 @@
-# Control Flow with if / else and Conditional Operators
+# Control Flow with if / else and Logical Operators
 
 # if / else statements
-
 water_level = 50
 if water_level > 80:
     print("Drain water")
@@ -15,10 +14,47 @@ if height >= 120:
 else:
     print("Sorry, you have to grow taller before you can ride.")
 
-# Conditional Operators: < , > , <= , >= , == , !=
+# Arithmetic Operators: + , - , * , / , % , **, //
+# Used with numeric values to perform common mathematical operations
+x = 5
+y = 3
+print(x + y)
 
-# = is an assignment
+# Floor division // rounds the result down to the nearest whole number
+
+# Comparison Operators:  == , != , < , > , <= , >=
+# Used to compare two values
+x = 5
+y = 3
+print(x > y)  # True
+
 # == checks equality
+# = is an assignment
+
+# Assignment Operators: = , += , -= , *= , /= , %= , //= , **=
+# Used to assign values to variables
+x = 5
+x += 3
+print(x)
+
+# Logical Operators: and, or, not
+# Used to combine conditional statements
+a = 12
+a > 10 and a < 13  # True
+a > 15 or a < 13  # True
+not a < 15  # True
+
+# Identity Operators: is, not is
+# Used to compare the objects, not if they are equal, but if they are actually the same object, with the same memory location
+x = ["apple", "banana"]
+y = ["apple", "banana"]
+print(x is y)  # False
+print(x == y)  # True
+
+# Membership Operators: in, not in
+# Used to test if a sequence is present in an object
+x = ["apple", "banana"]
+print("banana" in x)  # True
 
 # Interactive Coding Exercise - Odd or Even
 # Write a program that works out whether a given number is an odd or even number.
@@ -132,12 +168,6 @@ if size == "L":
     if extra_cheese == "Y":
         bill += 1
 print(f"Your final bill is: ${bill}.")
-
-# Logical Operators: and, or, not
-a = 12
-a > 10 and a < 13  # True
-a > 15 or a < 13  # True
-not a < 15  # True
 
 height = int(input("What is your height in cm? "))
 bill = 0
