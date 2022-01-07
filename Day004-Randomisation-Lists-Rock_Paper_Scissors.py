@@ -12,6 +12,11 @@ import my_module
 
 print("my_module.pi")
 
+# Another way of importing a module
+from my_module import pi
+
+print(pi)
+
 # Generate random floating point numbers in the interval [0, 1) (between 0 included and 1 not included)
 random_float = random.random()
 print("random_float")
