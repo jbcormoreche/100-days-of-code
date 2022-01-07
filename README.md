@@ -10,3 +10,4 @@ Learn Python by building 100 projects in 100 days following the course [100 Days
 - [Day 4: Randomisation and Lists - Rock Paper Scissors](https://github.com/jbcormoreche/100-days-of-code/blob/main/Day004-Randomisation-Lists-Rock_Paper_Scissors.py)
 - [Day 5: Loops - Password Generator](https://github.com/jbcormoreche/100-days-of-code/blob/main/Day005-Loops-Password_Generator.py)
 - [Day 6: Functions, Code Blocks and While Loops - Escaping the Maze](https://github.com/jbcormoreche/100-days-of-code/blob/main/Day006-Functions-Code_Blocks-While_Loops-Escaping_the_Maze.py)
+- [Day 7: Hangman](https://github.com/jbcormoreche/100-days-of-code/blob/main/Day007-Hangman.py)
