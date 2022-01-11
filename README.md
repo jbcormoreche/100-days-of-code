@@ -14,3 +14,4 @@ Learn Python by building 100 projects in 100 days following the course [100 Days
 - [Day 8: Function Parameters - Caesar Cipher](https://github.com/jbcormoreche/100-days-of-code/blob/main/Day008-Function_Parameters-Caesar_Cipher.py)
 - [Day 9: Dictionaries and Nesting - Secret Auction](https://github.com/jbcormoreche/100-days-of-code/blob/main/Day009-Dictionaries-Nesting-Secret_Auction.py)
 - [Day 10: Functions with Outputs - Calculator](https://github.com/jbcormoreche/100-days-of-code/blob/main/Day010-Functions_Outputs-Calculator.py)
+- [Day 11: Capstone Project - Blackjack](https://github.com/jbcormoreche/100-days-of-code/blob/main/Day011-Capstone_Project-Blackjack.py)
