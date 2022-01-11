@@ -56,9 +56,17 @@ print(fruits)
 fruits.append("Banana")
 print(fruits)
 
+# Use the append() method if you want to add items to an empty list
+vegetables = []
+vegetables.append("Spinash")
+print(vegetables)
+
+# += is the shorthand symbol of the extend() method and returns a TypeError for empty lists
+
 # List extend() method - Add multiple items to the end of a list
 fruits.extend(["Lemon", "Blueberry"])
 print(fruits)
+
 
 # List split() method - Break up a string at a specified separator and return a list of strings
 string = "Hello,from,AskPython"
