@@ -67,6 +67,13 @@ print(vegetables)
 fruits.extend(["Lemon", "Blueberry"])
 print(fruits)
 
+# List remove() method - Remove the first matching element from a list
+prime_numbers = [1, 2, 3, 5, 7, 9, 11]
+prime_numbers.remove(9)
+
+# List sum() method - Add the items of a list and returns the sum
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+print(sum(numbers))
 
 # List split() method - Break up a string at a specified separator and return a list of strings
 string = "Hello,from,AskPython"
