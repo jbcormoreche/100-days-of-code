@@ -18,3 +18,4 @@ Learn Python by building 100 projects in 100 days following the course [100 Days
 - [Day 12: Scope - Number Guessing Game](https://github.com/jbcormoreche/100-days-of-code/blob/main/Day012-Scope-Number_Guessing_Game.py)
 - [Day 13: Debugging](https://github.com/jbcormoreche/100-days-of-code/blob/main/Day013-Debugging.py)
 - [Day 14: Higher Lower Game](https://github.com/jbcormoreche/100-days-of-code/blob/main/Day014-Higher_Lower_Game.py)
+- [Day 15: Coffee Machine](https://github.com/jbcormoreche/100-days-of-code/blob/main/Day015-Coffee_Machine.py)
