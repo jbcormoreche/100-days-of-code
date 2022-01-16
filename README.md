@@ -19,3 +19,4 @@ Learn Python by building 100 projects in 100 days following the course [100 Days
 - [Day 13: Debugging](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day013-Debugging)
 - [Day 14: Higher Lower Game](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day014-Higher_Lower_Game)
 - [Day 15: Coffee Machine](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day015-Coffee_Machine)
+- [Day 16: Object Oriented Programming - Coffee Machine](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day016-Object_Oriented_Programming-Coffee_Machine)
