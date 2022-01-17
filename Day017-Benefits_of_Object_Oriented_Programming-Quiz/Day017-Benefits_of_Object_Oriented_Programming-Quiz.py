@@ -1,5 +1,16 @@
 # Benefits of Object Oriented Programming
 
+# Break a program into solvable bit-sized problems that can be solved one at a time
+# Modular and flexible by building modules that communicate with one another
+# Each bit of functionality does its own thing
+# Work on multiple objects simultaneously
+# Multiple instances of objects can co-exist without any interference
+# Reuse code to save time
+# Intuitive approach for developing big projects
+# Upgradable from small to large systems
+# Better productivity, better quality of software and lesser maintenance cost
+# Easy troubleshooting
+
 # Create an empty Class
 class User:
     pass
