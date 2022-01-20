@@ -1,16 +1,16 @@
-# Randomisation and Python Lists
+# Randomisation and Lists
 
 # Random module - Create a random integer
 import random
 
 random_integer = random.randint(1, 10)
-print("random_integer")
+print(random_integer)
 
 # Create and use a module
-# Create a separate file named my_module.py and add the line pi = 3.14159
+# Make a separate file named my_module.py and add the line pi = 3.14159
 import my_module
 
-print("my_module.pi")
+print(my_module.pi)
 
 # Another way of importing a module
 from my_module import pi
@@ -68,8 +68,8 @@ fruits.extend(["Lemon", "Blueberry"])
 print(fruits)
 
 # List remove() method - Remove the first matching element from a list
-prime_numbers = [1, 2, 3, 5, 7, 9, 11]
-prime_numbers.remove(9)
+prime_numbers = [1, 2, 3, 5, 7, 8, 9, 11]
+prime_numbers.remove(8)
 
 # List sum() method - Add the items of a list and returns the sum
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
@@ -113,12 +113,13 @@ row2 = ["⬜️", "⬜️", "⬜️"]
 row3 = ["⬜️", "⬜️", "⬜️"]
 map = [row1, row2, row3]
 print(f"{row1}\n{row2}\n{row3}")
-position = input("Where do you want to put the treasure? ")
-x_row = int(position[1]) - 1
-y_row = int(position[0]) - 1
+position = int(input("Where do you want to put the treasure? (column)(row) "))
+x_row = position[1] - 1
+y_row = position[0] - 1
 map[x_row][y_row] = "X"
 print(f"{row1}\n{row2}\n{row3}")
 
+# Day 4 Project - Rock Paper Scissors
 import random
 
 rock = '''
