@@ -169,29 +169,6 @@ if size == "L":
         bill += 1
 print(f"Your final bill is: ${bill}.")
 
-height = int(input("What is your height in cm? "))
-bill = 0
-if height >= 120:
-    print("You can ride the rollercoaster!")
-    age = int(input("What is your age? "))
-    if age < 12:
-        bill = 5
-        print("Child tickets are $5.")
-    elif age <= 18:
-        bill = 7
-        print("Youth tickets are $7.")
-    elif age >= 45 and age <= 55:
-        print("Everything is going to be ok. Have a free ride on us!")
-    else:
-        bill = 12
-        print("Adults tickets are $12.")
-    wants_photo = input("Do you want a photo taken? Y or N. ")
-    if wants_photo == "Y":
-        bill += 3
-    print(f"Your final bill is ${bill}.")
-else:
-    print("Sorry, you have to grow taller before you can ride.")
-
 # String lower() method - Convert a string to lowercase
 print("Angela".lower())
 
@@ -215,7 +192,7 @@ o_count = combined_names.count("o")
 v_count = combined_names.count("v")
 true_count = t_count + r_count + u_count + e_count
 love_count = l_count + o_count + v_count + e_count
-love_score = int(str(true_count) + str(love_count))
+love_score = true_count + love_count
 if (love_score < 10) or (love_score > 90):
     print(f"Your score is {love_score}, you go together like coke and mentos.")
 elif (love_score > 40) and (love_score < 50):
