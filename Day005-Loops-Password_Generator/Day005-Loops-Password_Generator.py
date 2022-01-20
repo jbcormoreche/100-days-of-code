@@ -7,7 +7,8 @@ for fruit in fruits:
     print(fruit + " Pie")
 print(fruits)
 
-# range() function - Return a sequence of numbers starting from 0 by default, increment by 1 by default and stop before a specified number
+# range() function - Return a sequence of numbers starting from 0 by default, incrementing by 1 by default and stopping before a specified number
+
 # Create and print a sequence of numbers from 0 to 5
 x = range(6)
 for n in x:
@@ -98,7 +99,7 @@ nr_numbers = int(input("How many numbers would you like?\n"))
 
 password = ""
 
-for letter in range(1, nr_letters + 1):
+for letter in range(0, nr_letters):
     password += random.choice(letters)
 for symbol in range(0, nr_symbols):
     password += random.choice(symbols)
@@ -122,12 +123,12 @@ nr_symbols = int(input("How many symbols would you like?\n"))
 nr_numbers = int(input("How many numbers would you like?\n"))
 
 password_list = []
-for letter in range(1, nr_letters + 1):
+for letter in range(0, nr_letters):
     password_list += random.choice(letters)
     # password_list.append(random.choice(letters))  works too
-for symbol in range(1, nr_symbols + 1):
+for symbol in range(0, nr_symbols):
     password_list += random.choice(symbols)
-for number in range(1, nr_numbers + 1):
+for number in range(0, nr_numbers):
     password_list += random.choice(numbers)
 
 # Random shuffle() method - Shuffle a list (reorganize the order of the list items)
