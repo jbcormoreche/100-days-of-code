@@ -24,3 +24,4 @@ Learn Python by building 100 projects in 100 days following the course [100 Days
 - [Day 18: Graphical User Interface and Tuples - Hirst Painting](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day018-Graphical_User_Interface-Tuples-Hirst_Painting)
 - [Day 19: Event Listeners, Instances, State and Higher Order Functions](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day019-Event_Listeners-Instances-State-Higher_Order_Functions)
 - [Day 20: Animation and Coordinates - Snake Game Part 1](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day020-Animation-Coordinates-Snake_Game_Part_1)
+- [Day 21: Class Inheritance and List Slicing - Snake Game Part 2](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day021-Class_Inheritance-List_Slicing-Snake_Game_Part_2)
