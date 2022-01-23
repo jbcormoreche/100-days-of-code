@@ -26,3 +26,4 @@ Learn Python by building 100 projects in 100 days following the course [100 Days
 - [Day 20: Animation and Coordinates - Snake Game Part 1](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day020-Animation-Coordinates-Snake_Game_Part_1)
 - [Day 21: Class Inheritance and List Slicing - Snake Game Part 2](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day021-Class_Inheritance-List_Slicing-Snake_Game_Part_2)
 - [Day 22: Pong Game](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day022-Pong_Game)
+- [Day 23: Capstone Project - Turtle Crossing](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day023-Capstone_Project-Turtle_Crossing)
