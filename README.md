@@ -28,3 +28,4 @@ Learn Python by building 100 projects in 100 days following the course [100 Days
 - [Day 22: Pong Game](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day022-Pong_Game)
 - [Day 23: Capstone Project - Turtle Crossing](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day023-Capstone_Project-Turtle_Crossing)
 - [Day 24: Files, Directories and Paths - Mail Merge](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day024-Files-Directories-Paths-Mail_Merge)
+- [Day 25: CSV Data and the Pandas Library - U.S. States Game](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day025-CSV_Data-Pandas_Library-US_States_Game)
