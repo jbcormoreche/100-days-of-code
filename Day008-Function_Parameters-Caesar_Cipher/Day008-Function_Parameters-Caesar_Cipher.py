@@ -13,6 +13,7 @@ greet_with_name("George")
 # name is the parameter (name of the data used inside the function)
 # "George" is the argument, the actual value of the data being passed in (used when calling the function)
 
+
 # Functions with multiple inputs
 def greet_with(name, location):
     print(f"Hello {name}")
@@ -28,6 +29,7 @@ greet_with(location="Manchester", name="Sarah")
 # Interactive Coding Exercise - Paint Area Calculator
 import math
 
+
 def paint_calc(height, width, cover):
     number_of_cans = math.ceil(height * width / cover)
     print(f"You'll need {number_of_cans} cans of paint.")
@@ -38,6 +40,7 @@ test_w = int(input("Width of wall: "))
 coverage = 5
 
 paint_calc(height=test_h, width=test_w, cover=coverage)
+
 
 # Interactive Coding Exercise - Prime Number Checker
 def prime_checker(number):
@@ -59,6 +62,7 @@ prime_checker(number=n)
 from caesar_cipher_art import logo
 
 alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+
 
 def caesar(choice, start_text, shift_amount):
     end_text = ""
