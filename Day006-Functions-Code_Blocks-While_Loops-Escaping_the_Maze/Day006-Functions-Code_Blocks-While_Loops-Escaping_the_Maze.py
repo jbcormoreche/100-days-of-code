@@ -5,6 +5,7 @@ print("Hello")
 num_char = len("Hello")
 print(num_char)
 
+
 # Defining and calling functions
 def my_function():
     print("Hello")
@@ -12,6 +13,7 @@ def my_function():
 
 
 my_function()
+
 
 # Code blocks and indentation
 def my_function2():
@@ -35,6 +37,7 @@ while number_of_hurdles > 0:
     number_of_hurdles -= 1
     print(number_of_hurdles)
 
+
 # Hurdle 2
 def turn_right():
     turn_left()
@@ -55,6 +58,7 @@ def jump_hurdle():
 
 while not at_goal():  # while at_goal() != True:  is possible too
     jump()
+
 
 # Hurdle 3
 def turn_right():
@@ -79,6 +83,7 @@ while not at_goal():
     elif front_is_clear():
         move()
 
+
 # Hurdle 4
 def turn_right():
     turn_left()
@@ -86,7 +91,7 @@ def turn_right():
     turn_left()
 
 
-def jump_hurdle(): 
+def jump_hurdle():
     if right_is_clear():
         turn_right()
         move()
@@ -101,6 +106,7 @@ def jump_hurdle():
 while not at_goal():
     jump_hurdle()
 
+
 # Day 6 Project - Escaping the Maze
 def turn_right():
     turn_left()
@@ -109,7 +115,7 @@ def turn_right():
 
 
 while front_is_clear():
-    move( )
+    move()
 turn_left()
 
 while not at_goal():
