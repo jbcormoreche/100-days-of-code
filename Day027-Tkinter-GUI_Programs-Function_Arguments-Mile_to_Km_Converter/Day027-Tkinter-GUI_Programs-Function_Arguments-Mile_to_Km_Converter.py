@@ -87,6 +87,7 @@ window.mainloop()
 # Modify one input
 # my_function(b=5)
 
+
 # Unlimited positional arguments
 # Define a function with a variable number of inputs (with no keyword)
 def add(*args):
@@ -99,6 +100,7 @@ def add(*args):
 
 
 print(add(3, 5, 7, 8))
+
 
 # Unlimited keyword arguments
 # Define a function with a variable number of optional inputs (with keywords)
@@ -115,6 +117,7 @@ def calculate(n, **kwargs):
 
 
 calculate(2, add=3, multiply=5)
+
 
 # Create a class with lots of optional arguments
 # Used to set options or to leave default values
