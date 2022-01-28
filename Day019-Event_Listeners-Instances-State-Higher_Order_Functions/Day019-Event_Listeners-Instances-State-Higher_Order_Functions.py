@@ -17,6 +17,7 @@ screen.listen()
 screen.onkey(key="space", fun=move_forward)
 screen.exitonclick()
 
+
 # Higher Order Functions are functions that contains other functions as a parameter or return a function as an output
 def add(nl, n2):
     return nl + n2
@@ -32,6 +33,7 @@ def multiply(nl, n2):
 
 def divide(nl, n2):
     return nl / n2
+
 
 # Taking another function as an input and working with it inside the function
 def calculator(nl, n2, func):
