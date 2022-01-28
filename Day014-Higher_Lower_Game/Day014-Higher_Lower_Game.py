@@ -9,6 +9,7 @@ random_number2 = randint(0, 49)
 while random_number1 == random_number2:
     random_number2 = randint(0, 49)
 
+
 # Choice A
 def compare_A(random_number1):
     name_a = data[random_number1]["name"]
