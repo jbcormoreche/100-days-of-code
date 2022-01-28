@@ -25,6 +25,7 @@ user_1.username = "James"
 
 print(user_1.username)
 
+
 # Create a constructor, used to initialize the starting values of an attribute
 class User:
 
