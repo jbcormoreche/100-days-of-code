@@ -13,6 +13,7 @@ print(format_name(first_name, last_name))
 
 output = len("Angela")
 
+
 # Interactive Coding Exercise - Days in Month
 # Write a program that works out the number of days in a month.
 def is_leap(year):
@@ -43,6 +44,7 @@ month = int(input("Enter a month (from 1 to 12): "))
 days = days_in_month(year, month)
 print(f"There are {days} days in this month.")
 
+
 # Docstrings: string literals that appear right after the definition of a function, method, class, or module (hover over function)
 def format_name(f_name, l_name):
     """"Take a first and last name and format it to return the title case version of the name."""
@@ -57,6 +59,7 @@ print(format_name(input("What is your first name? "), input("What is your last n
 
 output = len("Angela")
 
+
 # Recursion: function that calls itself
 def factorial(x):
     if x == 1:
@@ -70,6 +73,7 @@ print("The factorial of", num, "is", factorial(num))
 
 # Day 10 Project - Calculator
 from calculator_art import logo
+
 
 def add(n1, n2):
     return n1 + n2
@@ -93,6 +97,7 @@ operations = {
     "*": multiply,
     "/": divide,
 }
+
 
 def calculator():
     print(logo)
