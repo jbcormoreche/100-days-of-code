@@ -144,7 +144,6 @@ FONT = ("Arial", 18, "normal")
 
 
 def miles_to_km():
-    print("I got clicked")
     miles = float(miles_input.get())
     km = round(miles * 1.609, 2)
     result_label.config(text=km)
