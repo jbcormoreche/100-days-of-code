@@ -33,3 +33,4 @@ Learn Python by building 100 projects in 100 days following the course [100 Days
 - [Day 27: Tkinter, GUI Programs and Function Arguments - Mile to Km Converter](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day027-Tkinter-GUI_Programs-Function_Arguments-Mile_to_Km_Converter)
 - [Day 28: Tkinter and Dynamic Typing - Pomodoro GUI Application](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day028-Tkinter-Dynamic_Typing-Pomodoro_GUI_Application)
 - [Day 29: Tkinter - Password Manager GUI Application](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day029-Tkinter-Password_Manager_GUI_Application)
+- [Day 30: Errors, Exceptions and JSON Data - Improved Password Manager GUI Application](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day030-Errors-Exceptions-JSON_Data-Improved_Password_Manager_GUI_Application)
