@@ -35,3 +35,4 @@ Learn Python by building 100 projects in 100 days following the course [100 Days
 - [Day 29: Tkinter - Password Manager GUI Application](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day029-Tkinter-Password_Manager_GUI_Application)
 - [Day 30: Errors, Exceptions and JSON Data - Improved Password Manager GUI Application](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day030-Errors-Exceptions-JSON_Data-Improved_Password_Manager_GUI_Application)
 - [Day 31: Capstone Project - Flash Card App](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day031-Capstone_Project-Flash_Card_App)
+- [Day 32: Send Email and Manage Dates - Automated Birthday Wisher](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day032-Send_Email-Manage_Dates-Automated_Birthday_Wisher)
