@@ -40,3 +40,4 @@ Learn Python by building 100 projects in 100 days following the course [100 Days
 - [Day 34: Type Hints - GUI Quiz App](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day034-Type_Hints-GUI_Quizz_App)
 - [Day 35: API Keys, Authentication, Environment Variables and Sending SMS - Rain Notifier](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day035-API_Keys-Authentication-Environment_Variables-Sending_SMS-Rain_Notifier)
 - [Day 36: Stock Trading News Alert](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day036-Stock_Trading_News_Alert)
+- [Day 37: API Post Requests and Headers - Habit Tracking](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day037-API_Post_Requests-Headers-Habit_Tracking)
