@@ -33,7 +33,7 @@ print(response.text)
 graph_endpoint = f"{pixela_endpoint}/{USERNAME}/graphs"
 
 graph_config = {
-    "id": "GRAPH_ID",
+    "id": GRAPH_ID,
     "name": "Cycling Graph",
     "unit": "Km",
     "type": "float",
