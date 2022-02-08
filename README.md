@@ -42,3 +42,4 @@ Learn Python by building 100 projects in 100 days following the course [100 Days
 - [Day 36: Stock Trading News Alert](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day036-Stock_Trading_News_Alert)
 - [Day 37: API Post Requests and Headers - Habit Tracking](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day037-API_Post_Requests-Headers-Habit_Tracking)
 - [Day 38: Exercise Tracking](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day038-Exercise_Tracking)
+- [Day 39: Capstone Project Part 1 - Cheap Flight Finder](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day039-Capstone_Project_Part_1-Cheap_Flight_Finder)
