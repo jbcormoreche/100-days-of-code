@@ -44,3 +44,4 @@ Learn Python by building 100 projects in 100 days following the course [100 Days
 - [Day 38: Exercise Tracking](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day038-Exercise_Tracking)
 - [Day 39: Capstone Project Part 1 - Cheap Flight Finder](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day039-Capstone_Project_Part_1-Cheap_Flight_Finder)
 - [Day 40: Capstone Project Part 2 - Flight Club](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day040-Capstone_Project_Part_2-Flight_Club)
+- [Day 41: Introduction to HTML](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day041-Introduction_to_HTML)
