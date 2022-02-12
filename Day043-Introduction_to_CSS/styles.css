@@ -1,0 +1,17 @@
+body {
+    background-color: #EAF6F6;
+    margin: 0;
+    padding: 15px;
+}
+
+h1 {
+    color: #66BFBF;
+}
+
+.courses {
+    color: #B8405E;
+}
+
+#skills {
+    color: #655D8A;
+}
