@@ -1,0 +1,128 @@
+/* Change a block element's display property to inline-block to change its width. */
+
+/* Static is the default value for the position property. */
+
+/* Relative positioning is moving an element relative to its normal position. */
+
+/* Absolute positioning is moving an element relative to its parent element.  */
+/* You need to set the parent's position to relative for the children elements to have an absolute position.*/
+
+/* Fixed positioning is moving an element relative only to the <html> document*/
+
+/* Absolute and fixed positioned elements are removed from the normal document flow. */
+
+body {
+    font-family: 'Merriweatherr', serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #11999E;
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    margin-bottom: 0;
+}
+
+h2 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+}
+
+h3 {
+    color: #59adad;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-size: 18px
+}
+
+a {
+    color: #185a5a;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 15px;
+    margin-top: 15px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+    font-weight: bold;
+}
+
+.container {
+    background-color: #DFF9F3;
+    padding-top: 100px;
+    position: relative;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    bottom: 300px;
+    left: 300px;
+    position: absolute;
+}
+
+.skill-row {
+    line-height: 1.5;
+    margin: auto;
+    margin-bottom: 100px;
+    text-align: left;
+    width: 50%;
+}
+
+.row1 {
+    margin-bottom: 130px;
+}
+
+.row2 {
+    margin-bottom: 100px;
+}
+
+.computer {
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+
+.chillies {
+    float: right;
+    margin-left: 30px;
+    width: 25%;
+}
+
+.contact-me {
+    margin: 30px 0;
+}
+
+.btn {
+    background: #119ba0;
+    border-radius: 8px;
+    color: #ffffff;
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.btn:hover {
+    background: #0db3b9;
+    text-decoration: none;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    height: 90px;
+}
