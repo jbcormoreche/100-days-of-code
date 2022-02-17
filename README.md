@@ -51,3 +51,4 @@ Learn Python by building 100 projects in 100 days following the course [100 Days
 - [Day 45: Web Scraping with BeautifulSoup - 100 Greatest Movies](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day045-Web_Scraping_BeautifulSoup-100_Greatest_Movies)
 - [Day 46: Time Machine Spotify Playlist](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day046-Time_Machine_Spotify_Playlist)
 - [Day 47: Automated Amazon Price Tracker](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day047-Automated_Amazon_Price_Tracker)
+- [Day 48: Selenium Webdriver Browser - Game Playing Bot](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day048-Selenium_Webdriver_Browser-Game_Playing_Bot)
