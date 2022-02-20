@@ -54,3 +54,4 @@ Learn Python by building 100 projects in 100 days following the course [100 Days
 - [Day 48: Selenium Webdriver Browser - Game Playing Bot](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day048-Selenium_Webdriver_Browser-Game_Playing_Bot)
 - [Day 49: Automating Job Application on LinkedIn](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day049-Automating_Job_Application_LinkedIn)
 - [Day 50: Auto Tinder Swiping Bot](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day050-Auto_Tinder_Swiping_Bot)
+- [Day 51: Internet Speed Twitter Complaint Bot](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day051-Internet_Speed_Twitter_Complaint_Bot)
