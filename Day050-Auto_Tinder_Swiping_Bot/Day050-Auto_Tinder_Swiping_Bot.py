@@ -60,7 +60,7 @@ for n in range(100):
     # Catches the cases where there is a "Matched" pop-up in front of the "Like" button:
     except ElementClickInterceptedException:
         try:
-            match_popup = driver.find_element_by_css_selector(".itsAMatch a")
+            match_popup = driver.find_element(By.CSS_SELECTOR, ".itsAMatch a")
             match_popup.click()
 
         # Catches the cases where the "Like" button has not yet loaded, so wait 2 seconds before retrying.
