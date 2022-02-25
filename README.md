@@ -59,4 +59,4 @@ Learn Python by building 100 projects in 100 days following the course [100 Days
 - [Day 53: Capstone Project - Data Entry Job Automation](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day053-Capstone_Project-Data_Entry_Job_Automation)
 - [Day 54: Flask Introduction, First Class Objects and Decorators](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day054-Flask_Introduction-First_Class_Objects-Decorators)
 - [Day 55: Rendering HTML and URL Parsing in Flask - Higher Lower Game](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day055-Flask-HTML_Rendering-URL_Parsing-Higher_Lower_Game)
-- [Day 55: Rendering Static Files and Website Templates with Flask - Name Card Website Template](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day056-Flask-Static_Files_Rendering-Website_Templates-Name_Card_Website_Template)
+- [Day 56: Rendering Static Files and Website Templates with Flask - Name Card Website Template](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day056-Flask-Static_Files_Rendering-Website_Templates-Name_Card_Website_Template)
