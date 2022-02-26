@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+</head>
+
+<body>
+    <h1>Hello, world!</h1>
+    <!-- Evalutate as Python Code and insert it inside the template -->
+    <h2>{{ 5 * 6 }}</h2>
+    <h3>Random Number: {{ num }}</h3>
+    <!-- URL Building, pass variable from html to the server -->
+    <a href="{{ url_for('get_blog', num=3) }}">Go to blog</a>
+</body>
+<footer>
+    <p>Copyright &copy; {{ year }}</p>
+</footer>
+
+</html>
