@@ -1,4 +1,4 @@
-# Dynamic HTML Pages Templates and Buiding URL in Flask Using Jinja
+# Dynamic HTML Pages Templates and Building URL in Flask Using Jinja
 
 from flask import Flask, render_template
 import random
