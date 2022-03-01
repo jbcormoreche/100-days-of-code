@@ -1,4 +1,5 @@
 # Adding Styling to the Blog Capstone Project
+
 from flask import Flask, render_template
 import requests
 
