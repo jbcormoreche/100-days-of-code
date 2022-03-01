@@ -63,3 +63,4 @@ Learn Python by building 100 projects in 100 days following the course [100 Days
 - [Day 57: Dynamic HTML Pages Templates and Building URL in Flask using Jinja - Blog Capstone Project](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day057-Flask-Jinja_Dynamic_Pages_Templates-URL_Building-Blog_Capstone_Project)
 - [Day 58: Bootstrap](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day058-Bootstrap)
 - [Day 59: Adding Styling to the Blog Capstone Project](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day059-Adding_Styling-Blog_Capstone_Project)
+- [Day 60: POST Requests and HTML Forms in Flask](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day060-Flask-POST_Requests-HTML_Forms)
