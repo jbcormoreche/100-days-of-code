@@ -66,3 +66,4 @@ Learn Python by building 100 projects in 100 days following the course [100 Days
 - [Day 60: POST Requests and HTML Forms in Flask](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day060-Flask-POST_Requests-HTML_Forms)
 - [Day 61: Building Advanced Forms with Flask and WTForms](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day061-Flask-Building_Advanced_Forms-WTForms)
 - [Day 62: Flask, Bootstrap, CSV and WTForms](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day062-Flask-Bootstrap-CSV-WTForms-Coffee_Wifi)
+- [Day 63: Databases with SQLite and SQLAlchemy into a Flask Website - Virtual Bookshelf](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day063-Flask-Databases-SQLite-SQLAlchemy-Virtual_Bookshelf)
