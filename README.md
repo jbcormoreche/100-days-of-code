@@ -71,3 +71,4 @@ Learn Python by building 100 projects in 100 days following the course [100 Days
 - [Day 65: Web Design Introduction](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day065-Web_Design_Introduction)
 - [Day 66: Building an API with RESTful Routing](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day066-RESTful_Routing_API)
 - [Day 67: RESTful Routing to the Blog Capstone Project](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day067-RESTful_Routing-Blog_Capstone_Project)
+- [Day 68: Authentication with Flask](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day068-Flask-Authentication)
