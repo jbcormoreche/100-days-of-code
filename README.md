@@ -74,3 +74,4 @@ Learn Python by building 100 projects in 100 days following the course [100 Days
 - [Day 68: Authentication with Flask](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day068-Flask-Authentication)
 - [Day 69: Adding Users to the Blog Capstone Project](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day069-Flask-Adding_Users-Blog_Capstone_Project)
 - [Day 70: Deploying Your Web Application with Heroku](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day070-Flask-Deploying_Web_Application-Heroku-Blog_Capstone_Project)
+- [Day 71: Data Exploration with Pandas - College Major Salaries](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day071-Pandas-Data_Exploration-College_Major_Salaries)
