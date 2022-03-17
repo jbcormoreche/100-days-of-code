@@ -79,3 +79,4 @@ Learn Python by building 100 projects in 100 days following the course [100 Days
 - [Day 73: Aggregate and Merge Data with Pandas - Lego Analysis](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day073-Pandas-Aggregate_Merge_Data-Lego_Analysis)
 - [Day 74: Resampling and Visualising Time Series - Google Trend Data](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day074-Resampling_Visualising_Time_Series-Google_Trend_Data)
 - [Day 75: Plotly Charts - Analysing Google Play Store](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day075-Plotly_Charts-Analysing_Google_Play_Store)
+- [Day 76: Computation with Numpy and N-Dimensional Arrays](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day076-Computation-Numpy-N_Dimensional_Arrays)
