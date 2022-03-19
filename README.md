@@ -81,3 +81,4 @@ Learn Python by building 100 projects in 100 days following the course [100 Days
 - [Day 75: Plotly Charts - Analysing Google Play Store](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day075-Plotly_Charts-Analysing_Google_Play_Store)
 - [Day 76: Computation with Numpy and N-Dimensional Arrays](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day076-Computation-Numpy-N_Dimensional_Arrays)
 - [Day 77: Linear Regression and Data Visualisation with Seaborn](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day077-Linear_Regression-Data_Visualisation_Seaborn)
+- [Day 78: Analysing the Nobel Prize with Plotly, Matplotlib and Seaborn](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day078-Plotly-Matplotlib-Seaborn-Nobel_Price_Analysis)
