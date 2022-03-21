@@ -83,3 +83,4 @@ Learn Python by building 100 projects in 100 days following the course [100 Days
 - [Day 77: Linear Regression and Data Visualisation with Seaborn](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day077-Linear_Regression-Data_Visualisation_Seaborn)
 - [Day 78: Analysing the Nobel Prize with Plotly, Matplotlib and Seaborn](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day078-Plotly-Matplotlib-Seaborn-Nobel_Price_Analysis)
 - [Day 79: T-Tests and Distributions - Handwashing Discovery](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day079-T_Tests-Distributions-Handwashing_Discovery)
+- [Day 80: Capstone Project - Predict House Prices](https://github.com/jbcormoreche/100-days-of-code/tree/main/Day080-Capstone_Project-Predict_House_Prices)
